@@ -78,5 +78,10 @@
     "e3f7afd7bbd64a6ab434d1f26cec55e3":{
         "ign_at_time": "Strecs",   
         "reason": "Secrets found: 25,636 (Per Run: 7.61), sub 1k mp arch c45 op"
+    },
+    "bfb22536d43a4be8a14e9bd11ad1a1db":{
+        "ign_at_time": "Strecs",
+        "reason": "uses everything auto but still slower then legit"
     }
+        
 }
